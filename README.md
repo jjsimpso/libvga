@@ -1,0 +1,1 @@
+libvga is a repackaging of the vga text mode widgets developed by Nate Case for his Gtermix telnet client. Now you can easily use them in other projects. libvga includes a terminal widget in addition to the standard vga text widget.
